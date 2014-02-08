@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Calm down Vipbox",
 	"description": "no more ad and popup",
-	"version": "0.1",
+	"version": "0.2",
 	"icons": {
 		"16":"icon/icon16.png",
 		"32":"icon/icon32.png",

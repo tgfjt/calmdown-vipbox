@@ -1,7 +1,7 @@
 {
   "name": "calmdown-vipbox",
   "description": "no more ad and popup",
-  "version": "0.0.1",
+  "version": "0.2",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-cli": "~0.1.11",
