@@ -5,4 +5,4 @@ calmdown vipbox
 
 [Chrome Webstore](https://chrome.google.com/webstore/detail/calm-down-vipbox/mmdakmbanhoikfpamdjjgcnepcholaei)
 
-[!screenshot](https://raw2.github.com/tgfjt/calmdown-vipbox/master/screenshot.png)
+![image](https://raw2.github.com/tgfjt/calmdown-vipbox/master/screenshot.png)
