@@ -12,4 +12,4 @@ This is a Plugin for Chrome.
 ![image](https://raw2.github.com/tgfjt/calmdown-vipbox/master/screenshot.png)
 
 ## License:
-Source codes are distributed under MIT [License](![image](https://raw2.github.com/tgfjt/calmdown-vipbox/master/LICENSE))
+[MIT](![image](https://raw2.github.com/tgfjt/calmdown-vipbox/master/LICENSE))
