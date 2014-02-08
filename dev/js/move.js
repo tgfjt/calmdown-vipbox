@@ -11,6 +11,7 @@
 		console.log('%cStreambox iframe is null', 'color:#abb;');
 		return;
 	}
+
 	console.log('%cStreambox moving', 'color:#abb;');
 	location.href = streambox.getElementsByTagName('iframe')[0].getAttribute('src');
 })();

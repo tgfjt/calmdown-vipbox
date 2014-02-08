@@ -10,7 +10,6 @@ module.exports = function(grunt) {
 		pkg: grunt.file.readJSON('package.json'),
 		path: {
 			js: './dev/js',
-			css: './dev/css',
 			dest: './build/js'
 		},
 		jshint: {
@@ -33,34 +32,18 @@ module.exports = function(grunt) {
 				dest: '<%= path.dest %>'
 			}
 		},
-		cssmin: {
-			combine: {
-				files: {
-					'build/css/calmdown.css': ['<%= path.css %>/*.css']
-				}
-			}
-		},
 		watch: {
 			js: {
 				files: ['Gruntfile.js', '<%= path.js %>/*.js'],
-				tasks: ['jshint:dev', 'uglify:build'],
+				tasks: ['newer:jshint:dev', 'uglify:build'],
 				options: {
 					livereload: true,
 					nospawn: true
 				}
-			},
-			css: {
-				files: ['<%= path.css %>/*.css'],
-				tasks: ['cssmin:combine'],
-				options: {
-					livereload: true,
-					nospawn: true
-				}
-			},
+			}
 		}
 	});
 
 	grunt.registerTask('default', ['dev']);
 	grunt.registerTask('dev', ['watch']);
-	grunt.registerTask('prod', ['jshint:prod', 'uglify', 'cssmin']);
 };

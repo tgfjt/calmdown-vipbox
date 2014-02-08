@@ -5,11 +5,18 @@
 	"version": "0.1",
 	"icons": {
 		"16":"icon/icon16.png",
-		"48":"icon/icon48.png",
 		"32":"icon/icon32.png",
+		"48":"icon/icon48.png",
 		"128":"icon/icon128.png"
 	},
-	"permissions": ["tabs", "http://mylivetv.me/*", "http://jp.vipboxasia.co/*", "http://vipbox.net/*", "http://www.zoomtv.me/*", "contextMenus"],
+	"permissions": [
+		"tabs",
+		"http://mylivetv.me/*",
+		"http://jp.vipboxasia.co/*",
+		"http://vipbox.net/*",
+		"http://www.zoomtv.me/*",
+		"contextMenus"
+	],
 	"background": {
 		"scripts": ["build/js/background.js"]
 	}

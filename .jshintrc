@@ -1,6 +1,5 @@
 {
     "maxerr": 1000,
-    "devel": true,
 
     "indent": 4,
     "maxparams": 5,
@@ -8,10 +7,14 @@
     "maxstatements": 30,
     "maxcomplexity": 10,
 
-    "predef": {
-        "chrome": false,
+    "globals": {
+        "alert": false,
+        "console": false,
+        "chrome": false
     },
+
     "browser": true,
+
     "bitwise": true,
     "camelcase": false,
     "curly": true,
@@ -29,7 +32,6 @@
     "unused": true,
     "strict": true,
     "trailing": true,
-
-    "eqnull": true,
+    "eqnull": false,
     "lastsemic": true
 }
