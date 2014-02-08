@@ -10,7 +10,6 @@
 
     "predef": {
         "chrome": false,
-        "_": false
     },
     "browser": true,
     "bitwise": true,
