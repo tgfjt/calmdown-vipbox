@@ -4,7 +4,7 @@ calmdown vipbox
 [![wercker status](https://app.wercker.com/status/20ef247a06d88af36865a5c5c85a4065/m "wercker status")](https://app.wercker.com/project/bykey/20ef247a06d88af36865a5c5c85a4065) 
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-[![DEPENDENCIES](https://david-dm.org/tgfjt/calmdown-vipbox.png)](https://david-dm.org/tgfjt/calmdown-vipbox)
+[![devDependency Status](https://david-dm.org/tgfjt/calmdown-vipbox/dev-status.svg?theme=shields.io)](https://david-dm.org/tgfjt/calmdown-vipbox#info=devDependencies)
 
 This is a Plugin for Chrome.
 
