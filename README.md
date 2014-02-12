@@ -13,3 +13,7 @@ This is a Plugin for Chrome.
 
 ## License:
 [MIT](![image](https://raw2.github.com/tgfjt/calmdown-vipbox/master/LICENSE))
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tgfjt/calmdown-vipbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
