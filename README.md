@@ -1,7 +1,9 @@
 calmdown vipbox
 ======================
 
-[![wercker status](https://app.wercker.com/status/20ef247a06d88af36865a5c5c85a4065/m "wercker status")](https://app.wercker.com/project/bykey/20ef247a06d88af36865a5c5c85a4065)
+[![wercker status](https://app.wercker.com/status/20ef247a06d88af36865a5c5c85a4065/m "wercker status")](https://app.wercker.com/project/bykey/20ef247a06d88af36865a5c5c85a4065) 
+
+![image](https://david-dm.org/tgfjt/calmdown-vipbox.png) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 This is a Plugin for Chrome.
 
